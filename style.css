@@ -1,0 +1,19 @@
+#Num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.Impares{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans;
+}
+
+#Num3{
+    font-size: 24px;
+}
+
+#Num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
